@@ -1,0 +1,382 @@
+[Apr 11 17:33:18.429] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 11 17:33:18.433] [ message] [vmsvc] Core dump limit set to -1
+[Apr 11 17:33:18.434] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[Apr 11 17:33:18.477] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[Apr 11 17:33:18.477] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[Apr 11 17:33:18.477] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[Apr 11 17:33:18.478] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[Apr 11 17:33:18.478] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[Apr 11 17:33:18.478] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[Apr 11 17:33:18.478] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[Apr 11 17:33:18.479] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[Apr 11 17:33:18.565] [ message] [powerops] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[Apr 11 17:33:18.567] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 11 17:33:18.636] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 11 17:33:23.479] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 11 17:33:23.479] [ message] [vmsvc] Core dump limit set to -1
+[Apr 11 18:16:45.218] [ message] [powerops] Executing script: '/etc/vmware-tools/poweroff-vm-default'
+[Apr 11 18:16:45.228] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 11 18:16:45.228] [ message] [powerops] Initiating halt.
+[Apr 11 18:16:45.290] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[Apr 11 18:16:45.291] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[Apr 11 18:16:45.291] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[Apr 11 18:16:45.291] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[Apr 11 18:16:45.291] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[Apr 11 18:16:45.291] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[Apr 11 18:16:45.291] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[Apr 11 18:16:45.291] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[Apr 11 19:50:04.100] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 11 19:50:04.101] [ message] [vmsvc] Core dump limit set to -1
+[Apr 11 19:50:04.101] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[Apr 11 19:50:04.120] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[Apr 11 19:50:04.120] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[Apr 11 19:50:04.120] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[Apr 11 19:50:04.122] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[Apr 11 19:50:04.122] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[Apr 11 19:50:04.122] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[Apr 11 19:50:04.122] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[Apr 11 19:50:04.122] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[Apr 11 19:50:04.124] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 11 19:50:04.457] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 11 19:50:04.458] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 11 19:50:04.458] [ message] [powerops] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[Apr 11 19:50:04.498] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 11 19:50:43.617] [ warning] [vmsvc] SimpleSock: Send error for socket 8: 32[Broken pipe]
+[Apr 11 21:22:26.190] [ message] [powerops] Executing script: '/etc/vmware-tools/poweroff-vm-default'
+[Apr 11 21:22:26.200] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 11 21:22:26.201] [ message] [powerops] Initiating halt.
+[Apr 11 21:22:26.274] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[Apr 11 21:22:26.274] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[Apr 11 21:22:26.274] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[Apr 11 21:22:26.274] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[Apr 11 21:22:26.274] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[Apr 11 21:22:26.274] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[Apr 11 21:22:26.274] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[Apr 11 21:22:26.274] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[Apr 17 22:45:46.698] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 17 22:45:46.704] [ message] [vmsvc] Core dump limit set to -1
+[Apr 17 22:45:46.704] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[Apr 17 22:45:46.734] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[Apr 17 22:45:46.734] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[Apr 17 22:45:46.734] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[Apr 17 22:45:46.737] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[Apr 17 22:45:46.737] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[Apr 17 22:45:46.737] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[Apr 17 22:45:46.737] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[Apr 17 22:45:46.737] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[Apr 17 22:45:46.741] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 17 22:45:47.223] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 17 22:45:47.223] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 17 22:45:47.224] [ message] [powerops] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[Apr 17 22:45:47.263] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 17 22:46:46.738] [ warning] [vmsvc] SimpleSock: Send error for socket 8: 32[Broken pipe]
+[Apr 17 22:55:01.761] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[Apr 17 22:55:01.762] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[Apr 17 22:55:01.762] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[Apr 17 22:55:01.762] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[Apr 17 22:55:01.762] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[Apr 17 22:55:01.762] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[Apr 17 22:55:01.762] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[Apr 17 22:55:01.762] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[Apr 17 22:55:10.259] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 17 22:55:10.263] [ message] [vmsvc] Core dump limit set to -1
+[Apr 17 22:55:10.263] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[Apr 17 22:55:10.296] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[Apr 17 22:55:10.296] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[Apr 17 22:55:10.296] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[Apr 17 22:55:10.301] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[Apr 17 22:55:10.301] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[Apr 17 22:55:10.301] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[Apr 17 22:55:10.301] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[Apr 17 22:55:10.301] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[Apr 17 22:55:10.324] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 18 15:57:33.310] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 18 15:57:33.312] [ message] [vmsvc] Core dump limit set to -1
+[Apr 18 15:57:33.312] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[Apr 18 15:57:33.366] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[Apr 18 15:57:33.366] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[Apr 18 15:57:33.366] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[Apr 18 15:57:33.372] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[Apr 18 15:57:33.373] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[Apr 18 15:57:33.373] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[Apr 18 15:57:33.373] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[Apr 18 15:57:33.373] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[Apr 18 15:57:33.377] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 18 15:57:33.701] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 18 15:57:33.701] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 18 15:57:33.702] [ message] [powerops] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[Apr 18 15:57:33.718] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 19 17:01:13.136] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 19 17:01:13.137] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 19 19:01:54.105] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 19 19:01:54.105] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 19 19:02:12.092] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 19 19:02:12.092] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 19 23:55:47.286] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 19 23:55:47.286] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 22 12:18:33.283] [ warning] [vmsvc] SimpleSock: Send error for socket 8: 32[Broken pipe]
+[Apr 22 13:39:02.066] [ message] [powerops] Executing script: '/etc/vmware-tools/poweroff-vm-default'
+[Apr 22 13:39:02.100] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 22 13:39:02.100] [ message] [powerops] Initiating halt.
+[Apr 22 13:39:02.265] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[Apr 22 13:39:02.269] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[Apr 22 13:39:02.269] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[Apr 22 13:39:02.269] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[Apr 22 13:39:02.269] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[Apr 22 13:39:02.269] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[Apr 22 13:39:02.269] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[Apr 22 13:39:02.269] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[Apr 24 23:58:19.640] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 24 23:58:19.648] [ message] [vmsvc] Core dump limit set to -1
+[Apr 24 23:58:19.648] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[Apr 24 23:58:19.695] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[Apr 24 23:58:19.696] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[Apr 24 23:58:19.696] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[Apr 24 23:58:19.705] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[Apr 24 23:58:19.705] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[Apr 24 23:58:19.705] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[Apr 24 23:58:19.705] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[Apr 24 23:58:19.705] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[Apr 24 23:58:19.727] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 24 23:58:20.089] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 24 23:58:20.090] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 24 23:58:20.090] [ message] [powerops] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[Apr 24 23:58:20.101] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 24 23:58:49.705] [ warning] [vmsvc] SimpleSock: Send error for socket 8: 32[Broken pipe]
+[Apr 25 00:02:20.309] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[Apr 25 00:02:20.309] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[Apr 25 00:02:20.309] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[Apr 25 00:02:20.309] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[Apr 25 00:02:20.309] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[Apr 25 00:02:20.309] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[Apr 25 00:02:20.309] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[Apr 25 00:02:20.309] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[Apr 25 00:02:30.211] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 25 00:02:30.212] [ message] [vmsvc] Core dump limit set to -1
+[Apr 25 00:02:30.212] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[Apr 25 00:02:30.243] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[Apr 25 00:02:30.243] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[Apr 25 00:02:30.243] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[Apr 25 00:02:30.246] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[Apr 25 00:02:30.246] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[Apr 25 00:02:30.246] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[Apr 25 00:02:30.246] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[Apr 25 00:02:30.246] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[Apr 25 00:02:30.261] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 25 00:09:31.566] [ message] [powerops] Executing script: '/etc/vmware-tools/poweroff-vm-default'
+[Apr 25 00:09:31.576] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 25 00:09:31.577] [ message] [powerops] Initiating halt.
+[Apr 25 00:09:31.644] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[Apr 25 00:09:31.644] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[Apr 25 00:09:31.644] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[Apr 25 00:09:31.644] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[Apr 25 00:09:31.644] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[Apr 25 00:09:31.644] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[Apr 25 00:09:31.644] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[Apr 25 00:09:31.644] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[Apr 29 23:48:25.053] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[Apr 29 23:48:25.064] [ message] [vmsvc] Core dump limit set to -1
+[Apr 29 23:48:25.064] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[Apr 29 23:48:25.183] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[Apr 29 23:48:25.183] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[Apr 29 23:48:25.183] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[Apr 29 23:48:25.189] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[Apr 29 23:48:25.189] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[Apr 29 23:48:25.189] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[Apr 29 23:48:25.189] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[Apr 29 23:48:25.189] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[Apr 29 23:48:25.193] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 29 23:48:25.758] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[Apr 29 23:48:25.758] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[Apr 29 23:48:25.758] [ message] [powerops] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[Apr 29 23:48:25.770] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 29 23:49:45.232] [ warning] [vmsvc] SimpleSock: Send error for socket 8: 32[Broken pipe]
+[Apr 29 23:50:01.688] [ message] [powerops] Executing script: '/etc/vmware-tools/poweroff-vm-default'
+[Apr 29 23:50:01.757] [ message] [powerops] Script exit code: 0, success = 1
+[Apr 29 23:50:01.757] [ message] [powerops] Initiating halt.
+[Apr 29 23:50:01.835] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[Apr 29 23:50:01.835] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[Apr 29 23:50:01.835] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[Apr 29 23:50:01.835] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[Apr 29 23:50:01.835] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[Apr 29 23:50:01.835] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[Apr 29 23:50:01.835] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[Apr 29 23:50:01.835] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[May 22 11:42:08.152] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[May 22 11:42:08.152] [ message] [vmsvc] Core dump limit set to -1
+[May 22 11:42:08.152] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[May 22 11:42:08.208] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[May 22 11:42:08.208] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[May 22 11:42:08.208] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[May 22 11:42:08.213] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[May 22 11:42:08.213] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[May 22 11:42:08.213] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[May 22 11:42:08.213] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[May 22 11:42:08.213] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[May 22 11:42:08.219] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 11:42:09.074] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 11:42:09.075] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 11:42:09.083] [ message] [powerops] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[May 22 11:42:09.187] [ message] [powerops] Script exit code: 0, success = 1
+[May 22 12:19:15.202] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:19:15.210] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 12:22:37.718] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:22:37.718] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 12:24:52.328] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:24:52.328] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 12:25:02.004] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:25:02.004] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 12:26:11.410] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:26:11.411] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 12:26:25.257] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:26:25.257] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 12:26:53.464] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:26:53.464] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 12:32:11.384] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:32:11.385] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 12:32:31.073] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 12:32:31.073] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 14:01:32.839] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 14:01:32.840] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 14:01:32.992] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 14:01:32.992] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 14:11:46.995] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 14:11:46.995] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 14:11:47.068] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 14:11:47.068] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 14:16:49.212] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 22 14:16:49.212] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 22 14:17:28.915] [ warning] [vmsvc] SimpleSock: Send error for socket 8: 32[Broken pipe]
+[May 22 14:17:48.915] [ warning] [vmsvc] SimpleSock: Send error for socket 8: 32[Broken pipe]
+[May 23 14:01:57.365] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 23 14:01:57.367] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 23 20:55:39.305] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 23 20:55:39.305] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 24 10:50:35.779] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 24 10:50:35.780] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 25 23:32:24.699] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 25 23:32:24.706] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 25 23:32:27.209] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 25 23:32:27.210] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 25 23:32:31.780] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 25 23:32:31.781] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 25 23:32:34.238] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 25 23:32:34.239] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 25 23:42:51.019] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 25 23:42:51.019] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 25 23:42:53.058] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 25 23:42:53.058] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 26 21:37:55.766] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 26 21:37:55.767] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 26 21:52:39.710] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 26 21:52:39.711] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 26 21:58:36.518] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[May 26 21:58:36.519] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[May 26 21:58:36.519] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[May 26 21:58:36.519] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[May 26 21:58:36.519] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[May 26 21:58:36.519] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[May 26 21:58:36.519] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[May 26 21:58:36.519] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[May 26 21:58:50.284] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[May 26 21:58:50.291] [ message] [vmsvc] Core dump limit set to -1
+[May 26 21:58:50.291] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[May 26 21:58:50.401] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[May 26 21:58:50.403] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[May 26 21:58:50.403] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[May 26 21:58:50.424] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[May 26 21:58:50.432] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[May 26 21:58:50.432] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[May 26 21:58:50.434] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[May 26 21:58:50.434] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[May 26 21:58:50.469] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:02:20.289] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:02:20.291] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 09:02:28.877] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:02:28.878] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 09:03:25.981] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:03:25.982] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 09:51:25.516] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:51:25.516] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 09:51:52.877] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:51:52.878] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 09:52:21.622] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:52:21.623] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 09:52:24.938] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:52:24.939] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 09:52:47.341] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:52:47.341] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 09:58:02.791] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 09:58:02.791] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 12:09:08.947] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 12:09:08.948] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 12:44:19.780] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 12:44:19.780] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 12:51:49.584] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 12:51:49.584] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 13:01:10.187] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 13:01:10.187] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 16:04:48.644] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 16:04:48.644] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 16:04:51.472] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 16:04:51.472] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 16:05:06.525] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 16:05:06.525] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 16:05:23.535] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 16:05:23.535] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 16:32:20.580] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 16:32:20.580] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:37:57.931] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:37:57.932] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:37:58.487] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:37:58.487] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:37:59.542] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:37:59.543] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:37:59.796] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:37:59.796] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:38:01.046] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:38:01.046] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:38:01.901] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:38:01.901] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:38:02.254] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:38:02.254] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:38:06.672] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:38:06.672] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:39:07.240] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:39:07.240] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:39:07.795] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:39:07.795] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:39:10.856] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 19:39:10.856] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 19:40:40.555] [ message] [powerops] Executing script: '/etc/vmware-tools/poweroff-vm-default'
+[May 27 19:40:40.571] [ message] [powerops] Script exit code: 0, success = 1
+[May 27 19:40:40.572] [ message] [powerops] Initiating halt.
+[May 27 19:40:41.263] [ message] [vmtoolsd] Unloading plugin 'vmbackup'.
+[May 27 19:40:41.263] [ message] [vmtoolsd] Unloading plugin 'timeSync'.
+[May 27 19:40:41.263] [ message] [vmtoolsd] Unloading plugin 'powerops'.
+[May 27 19:40:41.263] [ message] [vmtoolsd] Unloading plugin 'guestInfo'.
+[May 27 19:40:41.263] [ message] [vmtoolsd] Unloading plugin 'grabbitmqProxy'.
+[May 27 19:40:41.263] [ message] [vmtoolsd] Unloading plugin 'deployPkg'.
+[May 27 19:40:41.263] [ message] [vmtoolsd] Unloading plugin 'vix'.
+[May 27 19:40:41.263] [ message] [vmtoolsd] Unloading plugin 'hgfsServer'.
+[May 27 21:48:40.348] [ message] [vmsvc] Log caching is enabled with maxCacheEntries=4096.
+[May 27 21:48:40.351] [ message] [vmsvc] Core dump limit set to -1
+[May 27 21:48:40.351] [ message] [vmtoolsd] Tools Version: 10.0.7.52125 (build-3227872)
+[May 27 21:48:40.385] [ message] [vmtoolsd] Plugin 'hgfsServer' initialized.
+[May 27 21:48:40.385] [ message] [vmtoolsd] Plugin 'vix' initialized.
+[May 27 21:48:40.385] [ message] [vmtoolsd] Plugin 'deployPkg' initialized.
+[May 27 21:48:40.389] [ message] [vmtoolsd] Plugin 'grabbitmqProxy' initialized.
+[May 27 21:48:40.389] [ message] [vmtoolsd] Plugin 'guestInfo' initialized.
+[May 27 21:48:40.389] [ message] [vmtoolsd] Plugin 'powerops' initialized.
+[May 27 21:48:40.389] [ message] [vmtoolsd] Plugin 'timeSync' initialized.
+[May 27 21:48:40.389] [ message] [vmtoolsd] Plugin 'vmbackup' initialized.
+[May 27 21:48:40.397] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 21:48:40.775] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 21:48:40.775] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 21:48:40.781] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 21:48:40.782] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 21:48:40.782] [ message] [vix] VixTools_ProcessVixCommand: command 62
+[May 27 21:48:40.782] [ message] [vix] ToolsDaemonTcloReceiveVixCommand: additionalError = 17
+[May 27 21:48:40.783] [ message] [powerops] Executing script: '/etc/vmware-tools/poweron-vm-default'
+[May 27 21:48:40.793] [ message] [powerops] Script exit code: 0, success = 1
+[May 27 21:49:20.392] [ warning] [vmsvc] SimpleSock: Send error for socket 8: 32[Broken pipe]
